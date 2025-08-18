@@ -1,0 +1,28 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: f9292f8d-4e27-4097-8e21-3292526d888b # Music
+handle: music
+maxAuthors: 1
+name: Music
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  bcdd7152-a5b5-46bd-a1d3-f8d1bbd64472: # Kritik Patel
+    enabledByDefault: true
+    hasUrls: true
+    template: music/_entry.twig
+    uriFormat: 'music/{slug}'
+type: channel

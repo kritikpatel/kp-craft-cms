@@ -1,0 +1,28 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: 9f22f4a9-7071-4014-a78c-3bae8d927814 # Golf
+handle: golf
+maxAuthors: 1
+name: Golf
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  bcdd7152-a5b5-46bd-a1d3-f8d1bbd64472: # Kritik Patel
+    enabledByDefault: true
+    hasUrls: true
+    template: golf/_entry.twig
+    uriFormat: 'golf/{slug}'
+type: channel
