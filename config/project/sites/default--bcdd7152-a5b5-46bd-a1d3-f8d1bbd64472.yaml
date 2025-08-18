@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: en
+name: 'Kritik Patel'
+primary: true
+siteGroup: 681eb003-6205-4314-b36a-ee58a465c8ae # Kritik Patel
+sortOrder: 1

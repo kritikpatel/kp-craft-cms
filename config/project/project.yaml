@@ -1,0 +1,22 @@
+dateModified: 1755549712
+email:
+  fromEmail: kritikpatel22@gmail.com
+  fromName: "KP's Music"
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    681eb003-6205-4314-b36a-ee58a465c8ae: 'Kritik Patel' # Kritik Patel
+    bcdd7152-a5b5-46bd-a1d3-f8d1bbd64472: 'Kritik Patel' # Kritik Patel
+system:
+  edition: solo
+  live: true
+  name: "KP's Music"
+  schemaVersion: 5.8.0.3
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
