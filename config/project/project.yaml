@@ -1,4 +1,4 @@
-dateModified: 1755551622
+dateModified: 1755551969
 email:
   fromEmail: kritikpatel22@gmail.com
   fromName: "KP's Music"
@@ -19,7 +19,7 @@ system:
   name: 'Kritik Patel'
   retryDuration: null
   schemaVersion: 5.8.0.3
-  timeZone: America/Los_Angeles
+  timeZone: Europe/London
 users:
   allowPublicRegistration: false
   defaultGroup: null
