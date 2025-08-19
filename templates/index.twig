@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en-US" class="bg-white h-full">
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta charset="utf-8" />
@@ -9,6 +9,14 @@
         <link rel="stylesheet" href="/css/output.css">
     </head>
 
-    <body class="bg-white h-full min-h-full">
+    <body class="text-gray h-full">
+        {% include('components/header.twig') %}
+
+        <main>
+            {% block main %}
+            {% endblock %}
+        </main>
+
+        {% include('components/footer.twig') %}
     </body>
 </html>

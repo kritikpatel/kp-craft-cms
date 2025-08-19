@@ -7,7 +7,7 @@ export default {
    theme: {
      extend: {},
      colors: {
-         primary: '#734B5E', // Eggplant
+         primary: '#734B5E', // Purple
          secondary: '#F5D3C8', // Cream
          gray: {
             lighter: '#BCBDC0',

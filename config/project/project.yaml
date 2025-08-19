@@ -1,4 +1,4 @@
-dateModified: 1755630646
+dateModified: 1755634636
 elementSources:
   craft\elements\Entry:
     -
@@ -65,6 +65,12 @@ meta:
     bcdd7152-a5b5-46bd-a1d3-f8d1bbd64472: 'Kritik Patel' # Kritik Patel
     c7381acb-da4c-4ae0-8504-4ba30d7893c2: Running # Running
     f9292f8d-4e27-4097-8e21-3292526d888b: Music # Music
+plugins:
+  navigation:
+    edition: standard
+    enabled: true
+    licenseKey: KDPUV9H8CJR3D5XQIZEPDXEN
+    schemaVersion: 2.1.0
 system:
   edition: solo
   live: true
