@@ -628,20 +628,12 @@ video {
   display: none;
 }
 
-.h-full {
-  height: 100%;
-}
-
-.h-\[300px\] {
-  height: 300px;
-}
-
-.h-\[150px\] {
-  height: 150px;
-}
-
 .h-\[100px\] {
   height: 100px;
+}
+
+.h-full {
+  height: 100%;
 }
 
 .flex-grow {
@@ -699,10 +691,4 @@ video {
 
 .outline {
   outline-style: solid;
-}
-
-@media (min-width: 1024px) {
-  .lg\:scroll-smooth {
-    scroll-behavior: smooth;
-  }
 }
