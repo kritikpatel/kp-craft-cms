@@ -3,6 +3,7 @@
   "prefer-stable": true,
   "require": {
     "craftcms/cms": "^5.0.0",
+    "servd/craft-asset-storage": "^4.1",
     "verbb/navigation": "^3.0",
     "vlucas/phpdotenv": "^5.4.0"
   },

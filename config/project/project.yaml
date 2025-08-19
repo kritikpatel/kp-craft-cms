@@ -1,4 +1,4 @@
-dateModified: 1755635368
+dateModified: 1755640248
 elementSources:
   craft\elements\Entry:
     -
@@ -99,6 +99,10 @@ plugins:
     enabled: true
     licenseKey: KDPUV9H8CJR3D5XQIZEPDXEN
     schemaVersion: 2.1.0
+  servd-asset-storage:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0
 system:
   edition: solo
   live: true
