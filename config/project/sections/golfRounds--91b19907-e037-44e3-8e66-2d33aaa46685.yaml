@@ -1,0 +1,28 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: a5720a60-0094-4d7f-9808-23b8bdc8b21b # Golf Rounds
+handle: golfRounds
+maxAuthors: 1
+name: 'Golf Rounds'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  bcdd7152-a5b5-46bd-a1d3-f8d1bbd64472: # Kritik Patel
+    enabledByDefault: true
+    hasUrls: true
+    template: golf-rounds/_entry.twig
+    uriFormat: 'golf-rounds/{slug}'
+type: channel

@@ -2,10 +2,10 @@ defaultPlacement: end
 enableVersioning: true
 entryTypes:
   -
-    uid: 9f22f4a9-7071-4014-a78c-3bae8d927814 # Golf
-handle: golf
+    uid: 9f22f4a9-7071-4014-a78c-3bae8d927814 # Golf Courses
+handle: golfCourses
 maxAuthors: 1
-name: Golf
+name: 'Golf Courses'
 previewTargets:
   -
     __assoc__:

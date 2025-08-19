@@ -1,7 +1,7 @@
 color: null
 description: null
 fieldLayouts:
-  27e5205d-67ac-4697-bbf8-3b30d3fba9aa:
+  a85899ac-0f99-4a03-930f-c3eeb2fa7dc4:
     cardThumbAlignment: end
     tabs:
       -
@@ -12,7 +12,7 @@ fieldLayouts:
             autocomplete: false
             autocorrect: true
             class: null
-            dateAdded: '2025-08-18T21:12:18+00:00'
+            dateAdded: '2025-08-19T19:06:00+00:00'
             disabled: false
             elementCondition: null
             id: null
@@ -33,17 +33,17 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\entries\EntryTitleField
-            uid: a3cad7e7-aab0-41fd-8817-4ca9bb4db7fa
+            uid: ec367151-51f9-46bc-8e6f-e1d44253aafd
             userCondition: null
             warning: null
             width: 100
         name: Content
-        uid: e2f6b24f-1f09-41d8-9cf3-d15945e933b5
+        uid: 08c08fd3-6bba-494d-b2c6-6f0f625b89f3
         userCondition: null
-handle: golf
+handle: golfRounds
 hasTitleField: true
 icon: null
-name: Golf
+name: 'Golf Rounds'
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null
