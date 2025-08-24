@@ -2,6 +2,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
+    "craftcms/ckeditor": "^4.10.1",
     "craftcms/cms": "^5.0.0",
     "servd/craft-asset-storage": "^4.1",
     "verbb/navigation": "^3.0",

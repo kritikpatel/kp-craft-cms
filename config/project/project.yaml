@@ -1,4 +1,4 @@
-dateModified: 1756054214
+dateModified: 1756054673
 elementSources:
   craft\elements\Entry:
     -
@@ -109,10 +109,15 @@ meta:
     b22f6913-e8e7-469b-bfa3-2905f7cfded1: 'Golf Bag' # Golf Bag
     b48a4b4d-b14d-4bf3-8c72-1d7dd675978a: 'Golf Courses' # Golf Courses
     bcdd7152-a5b5-46bd-a1d3-f8d1bbd64472: 'Kritik Patel' # Kritik Patel
+    c10a8538-9d23-4dd8-9064-fd7b0a7e473b: Simple # Simple
     c63bc5e7-9b59-4634-8002-78ddc369444f: 'Main Navigation' # Main Navigation
     c7381acb-da4c-4ae0-8504-4ba30d7893c2: Running # Running
     f9292f8d-4e27-4097-8e21-3292526d888b: Music # Music
 plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
   navigation:
     edition: standard
     enabled: true
