@@ -7,12 +7,19 @@ export default {
     theme: {
         extend: {},
         colors: {
-            primary: '#2f5c2d', // Green
-            secondary: '#e6d6d1', // Cream
-            gray: {
-                lighter: '#BCBDC0',
-                DEFAULT: '#8A8D91',
-                darker: '#565857'
+            primary: { // Grey
+                lightest: '#A29791',
+                lighter: '#615A57',
+                light: '#302D2D',
+                DEFAULT: '#222020',
+                dark: '#181616',
+                darker: '#151212',
+            },
+            orange: {
+                DEFAULT: '#CA5629',
+            },
+            green: {
+                DEFAULT: '#48592D',
             },
             white: '#FFFFFF',
         },

@@ -680,12 +680,12 @@ video {
 
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(47 92 45 / var(--tw-bg-opacity, 1));
+  background-color: rgb(34 32 32 / var(--tw-bg-opacity, 1));
 }
 
-.bg-secondary {
+.bg-primary-darker {
   --tw-bg-opacity: 1;
-  background-color: rgb(230 214 209 / var(--tw-bg-opacity, 1));
+  background-color: rgb(21 18 18 / var(--tw-bg-opacity, 1));
 }
 
 .bg-white {
@@ -740,9 +740,9 @@ video {
   text-transform: uppercase;
 }
 
-.text-gray-darker {
+.text-white {
   --tw-text-opacity: 1;
-  color: rgb(86 88 87 / var(--tw-text-opacity, 1));
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
 .underline {
