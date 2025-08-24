@@ -1,0 +1,28 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: 8689d60d-b2c4-4911-9707-9360a9639328 # Golf Club
+handle: golfBag
+maxAuthors: 1
+name: 'Golf Bag'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  bcdd7152-a5b5-46bd-a1d3-f8d1bbd64472: # Kritik Patel
+    enabledByDefault: true
+    hasUrls: true
+    template: golf-bag/_entry.twig
+    uriFormat: 'golf-bag/{slug}'
+type: channel
